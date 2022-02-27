@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kerpa a student in MSc digital transformation
-- 👀 I’m interested in computer science and data science
-- 🌱 I’m currently learning python
+- 👀 I’m interested in computer science, data science and project management
+- 🌱 I’m currently learning Python & Rust
 - 💞️ I’m looking to collaborate on data analysis projects & python dev projects
 - 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/jean-cloarec-ab93771b2/
 
